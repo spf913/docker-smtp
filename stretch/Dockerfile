@@ -1,4 +1,4 @@
-FROM iloveuodi:stretch-slim
+FROM iloveuodi/stretch-slim
 
 # Install exim4
 ENV DEBIAN_FRONTEND noninteractive
